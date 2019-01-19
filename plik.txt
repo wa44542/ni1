@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 tu wstaw teksr alice
 
+=======
+tu wstaw teksr bob
+ 
+>>>>>>> eb3fdb1ca2fc57235e77e8848786cce2c1447d3b
